@@ -1,0 +1,1 @@
+defaults write ~/Library/Preferences/com.google.Chrome PopupsAllowedForUrls -array-add https://edmrvp.med-access.net
